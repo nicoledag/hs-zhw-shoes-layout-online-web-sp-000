@@ -55,7 +55,7 @@
   width: 66%;
 }
 
-[class*="col-"]{
+[class*="col-"] {
   margin-left: 2%;
 }
 
